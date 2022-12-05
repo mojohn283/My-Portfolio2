@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.b2972141.css",
-    "main.js": "./static/js/main.b77d5711.js",
+    "main.js": "./static/js/main.d7245374.js",
     "static/js/787.128fc6e9.chunk.js": "./static/js/787.128fc6e9.chunk.js",
     "static/media/co2excel.PNG": "./static/media/co2excel.fca3e04470312eddde95.PNG",
     "static/media/water.PNG": "./static/media/water.8c7043d79e158bc6a03f.PNG",
     "static/media/co2java.png": "./static/media/co2java.223a0427863b7449b3b0.png",
     "index.html": "./index.html",
     "main.b2972141.css.map": "./static/css/main.b2972141.css.map",
-    "main.b77d5711.js.map": "./static/js/main.b77d5711.js.map",
+    "main.d7245374.js.map": "./static/js/main.d7245374.js.map",
     "787.128fc6e9.chunk.js.map": "./static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2972141.css",
-    "static/js/main.b77d5711.js"
+    "static/js/main.d7245374.js"
   ]
 }
